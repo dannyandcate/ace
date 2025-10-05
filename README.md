@@ -1,5 +1,8 @@
 # UkeGeeks Ace Editor ChordPro Language Extension
 
+You can clone this repo, or use it here:
+https://dannyandcate.github.io/ace/
+
 ChordPro song editing extension for the [Ace Editor](https://ace.c9.io/) (version 1.27.0).
 
 Try the [Live Editor Demo](https://buzcarter.github.io/ace-chordpro-extension/editor.html) (includes Help tips)
